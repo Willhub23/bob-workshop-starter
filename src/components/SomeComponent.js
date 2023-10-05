@@ -1,4 +1,5 @@
 import React from 'react';
+import Box from '@mui/material/Box'; // Import the Box component
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
@@ -21,7 +22,6 @@ const rows = [
 
 export default function BasicTable() {
   return (
-
     <Box>
       <Box py={5} bgcolor="#e8eaf6" borderRadius={3} boxShadow={3} mt={4} px={3}>
     <TableContainer component={Paper}>
