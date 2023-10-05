@@ -9,7 +9,7 @@ function Description() {
           Om Meg
         </Typography>
         <Typography>
-          hei eg kommer fragit øygarden, eg har grodd denne blomsten, fin?
+          hei eg kommer fra øygarden, eg har grodd denne blomsten, fin?
         </Typography>
       </Box>
     </Box>
