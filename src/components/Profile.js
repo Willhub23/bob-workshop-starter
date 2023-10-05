@@ -13,7 +13,7 @@ function Profile() {
       spacing={2}
     >
       <Avatar
-        src="/bilde-av-blomst.jpeg"
+        src="/bilde-av-nykompis.jpeg"
         alt="Blomst"
         sx={{
           width: 150,
@@ -23,7 +23,7 @@ function Profile() {
         }}
       />
       <Typography variant="h4" gutterBottom color="#3f51b5">
-        Tilfeldig fin blomst
+        sup
       </Typography>
     </Stack>
   );
