@@ -1,7 +1,7 @@
 import React from "react";
 import { Avatar, Typography, Box } from "@mui/material";
 
-function Description() {
+function SomeComponent() {
   return (
     <Box>
       <Box py={5} bgcolor="#e8eaf6" borderRadius={3} boxShadow={3} mt={4} px={3}>
@@ -9,11 +9,12 @@ function Description() {
           Om Meg
         </Typography>
         <Typography>
-          hei eg kommer fragit øygarden, eg har grodd denne blomsten, fin?
+          hei eg kommer fra øygarden, eg har grodd denne blomsten, fin?
         </Typography>
       </Box>
+
     </Box>
   );
 }
 
-export default Description;
+export default SomeComponent;
