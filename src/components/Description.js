@@ -20,7 +20,7 @@ function Description() {
           width: 150,
           height: 150,
           margin: "auto",
-          border: "4px solid #3f51b5",
+          border: "6px solid #3f51b5",
         }}
       />
         
