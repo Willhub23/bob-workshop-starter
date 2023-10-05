@@ -22,6 +22,16 @@ function Profile() {
           border: "4px solid #3f51b5",
         }}
       />
+      <Avatar
+        src="/bilde-av-kompis.jpeg"
+        alt="Blomst"
+        sx={{
+          width: 150,
+          height: 150,
+          margin: "auto",
+          border: "4px solid #3f51b5",
+        }}
+      />
       <Typography variant="h4" gutterBottom color="#3f51b5">
         sup
       </Typography>
